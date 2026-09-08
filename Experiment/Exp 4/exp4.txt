@@ -1,0 +1,6 @@
+4.1 https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01D?tab=statement
+4.2 https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/GSQ63?tab=statement
+4.3 https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01E?tab=statement
+4.4 https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01B?tab=statement
+4.5 https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01F?tab=statement
+4.6 https://www.codechef.com/learn/course/sql-intermediate/SQ00BS01/problems/ASQL01C
